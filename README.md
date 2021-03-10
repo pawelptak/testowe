@@ -1,3 +1,3 @@
 Hello world
-
-ZMIANA
+Zmiana na mainie
+dodalem cos
